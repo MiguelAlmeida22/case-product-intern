@@ -19,11 +19,11 @@
 
 ## Como fiz
 
-**Ferramentas.** Usei o Claude (Anthropic) como parceiro de trabalho nas duas partes e o Figma para estruturar o "antes e depois". A base de pesquisa foi a própria página do Benchmark no site da Comp, que percorri do início ao mapeamento da planilha, incluindo um teste com uma planilha de 120 linhas e 7 erros propositais. Além de fornecer ideias de abordagens, o papel da IA foi me desafiar: questionar hipóteses e caminhos que eu decidia, para que cada escolha ficasse melhor embasada.
+**Ferramentas:** Usei o Claude (Anthropic) como parceiro de trabalho nas duas partes e o Figma para estruturar o "antes e depois". A base de pesquisa foi a própria página do Benchmark no site da Comp, que percorri do início ao mapeamento da planilha, incluindo um teste com uma planilha de 120 linhas e 7 erros propositais. Além de fornecer ideias de abordagens, o papel da IA foi me desafiar: questionar hipóteses e caminhos que eu decidia, para que cada escolha ficasse melhor embasada.
 
-**Onde a IA acelerou.** Na Parte 1, em ajudar a estruturar as hipóteses que seriam testadas e a construir a descrição do nível (alto, médio ou baixo) para cada critério, além de estruturar a matriz de priorização e formatar o documento. Na Parte 2, em escrever o protótipo em código no modelo visual da Comp, testar possíveis falhas do protótipo, montar a estrutura do Figma e organizar e publicar este repositório no GitHub.
+**Onde a IA acelerou:** Na Parte 1, em ajudar a estruturar as hipóteses que seriam testadas e a construir a descrição do nível (alto, médio ou baixo) para cada critério, além de estruturar a matriz de priorização e formatar o documento. Na Parte 2, em escrever o protótipo em código no modelo visual da Comp, testar possíveis falhas do protótipo, montar a estrutura do Figma e organizar e publicar este repositório no GitHub.
 
-**Onde precisei corrigir.**
+**Onde precisei corrigir:**
 - A IA tendia a supor números para sustentar hipóteses. Reforcei que as decisões precisavam se apoiar no que o case e o site mostram, não em chute; o que não dava para saber virou pergunta para investigar ou hipótese para testar.
 - No protótipo, a IA preencheu lacunas com suposições. Tive que mostrar quais eram os campos verdadeiros do site e direcionar para o que realmente precisava mudar, em vez de implementar ideias e funcionalidades que fugiriam da proposta.
 
