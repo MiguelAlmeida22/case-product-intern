@@ -14,7 +14,7 @@
 ## Como navegar no protótipo
 
 - Abre direto no navegador, sem instalar nada. Nada vem preenchido: o caminho é o de um cliente novo.
-- **Para ver a mudança principal (cerca de 5 minutos):** marque **Benefícios** → preencha **Informações da empresa** (mínimo de 25 colaboradores) → em **Benefícios**, marque alguns e clique em **Configurar** (por exemplo, plano de saúde e auxílio educação).
+- **Para ver a mudança principal:** marque **Benefícios** → preencha **Informações da empresa** (mínimo de 25 colaboradores) → em **Benefícios**, marque alguns e clique em **Configurar** (por exemplo, plano de saúde e auxílio educação).
 - Marcando também **Salário**, o fluxo segue até o download e o envio da planilha.
 
 ## Como fiz
