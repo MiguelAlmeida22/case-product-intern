@@ -21,7 +21,7 @@
 
 **Ferramentas.** Usei o Claude (Anthropic) como parceiro de trabalho nas duas partes e o Figma para o antes e depois. A base foi a própria página do Benchmark no site da Comp, que percorri do início ao envio da planilha, incluindo um teste com uma planilha de 120 linhas e 7 erros propositais. Além de executar, o papel da IA foi me desafiar: questionar hipóteses e caminhos que eu decidia, para que cada escolha ficasse mais bem embasada.
 
-**Onde a IA acelerou.** Na Parte 1, em organizar a Discovery por etapa da jornada, montar a matriz de priorização e formatar o documento. Na Parte 2, em escrever o protótipo em código no visual da Comp, testar automaticamente os cenários de escolha de dados e montar a estrutura do Figma.
+**Onde a IA acelerou.** Na Parte 1, em organizar a Discovery por etapa da jornada, montar a matriz de priorização e formatar o documento. Na Parte 2, em escrever o protótipo em código no visual da Comp, testar automaticamente os cenários de escolha de dados, montar a estrutura do Figma e organizar e publicar este repositório no GitHub.
 
 **Onde precisei corrigir.**
 - A IA tendia a supor números para sustentar hipóteses. Reforcei que as decisões precisavam se apoiar no que o case e o site mostram, não em chute; o que não dava para saber virou pergunta para investigar.
