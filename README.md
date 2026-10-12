@@ -8,7 +8,7 @@
 |---|---|---|
 | **1 · Discovery, priorização e direção** | Documento de 2 páginas | [Abrir o PDF](parte-1/Case%20Comp%20-%20Parte%201%20-%20Miguel%20Almeida.pdf) |
 | **2 · Protótipo do cadastro** | Protótipo navegável | [Abrir o protótipo](https://miguelalmeida22.github.io/case-product-intern/parte-2/prototipo.html) |
-| | Antes e depois de cada tela | [Ver no Figma](https://www.figma.com/design/nu6NOFwrqIs5oPJercVinq/Case-Comp-%C2%B7-Parte-2-%C2%B7-Antes-e-depois-%7C-Miguel-Almeida?node-id=0-1) |
+| | Antes e depois das telas que mudaram | [Ver no Figma](https://www.figma.com/design/nu6NOFwrqIs5oPJercVinq/Case-Comp-%C2%B7-Parte-2-%C2%B7-Antes-e-depois-%7C-Miguel-Almeida?node-id=0-1) |
 | | O que me incomodou, o que mudei e por quê | [Ler a meia página](parte-2/README.md) |
 
 ## Como navegar no protótipo
